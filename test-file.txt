@@ -1,0 +1,2 @@
+Hola, este es un archivo de texto creado con vim para el repo de práctica git & github
+
